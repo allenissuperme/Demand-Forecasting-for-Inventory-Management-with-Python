@@ -128,7 +128,7 @@ print(final_forecast_df)
 
 - **Data-driven inventory management** to prevent stock shortages or overstocking.
 - **Visual representation** of past and predicted sales trends.
-  ![Alt text]()
+  ![Alt text](https://github.com/allenissuperme/Demand-Forecasting-for-Inventory-Management-with-Python/blob/main/visualization.png?raw=true)
 
 
 
