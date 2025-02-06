@@ -124,8 +124,11 @@ print(final_forecast_df)
 ## 📊 Expected Outcome
 
 - **Forecasted sales for each product** over the next **30 days**.
+  ![Alt text]()
+
 - **Data-driven inventory management** to prevent stock shortages or overstocking.
 - **Visual representation** of past and predicted sales trends.
+  ![Alt text]()
 
 
 
