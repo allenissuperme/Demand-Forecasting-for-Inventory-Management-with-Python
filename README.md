@@ -124,7 +124,7 @@ print(final_forecast_df)
 ## 📊 Expected Outcome
 
 - **Forecasted sales for each product** over the next **30 days**.
-  ![Alt text]()
+  ![Alt text](https://github.com/allenissuperme/Demand-Forecasting-for-Inventory-Management-with-Python/blob/main/forecasted%20sales%20next%20month%20outcome.png?raw=true)
 
 - **Data-driven inventory management** to prevent stock shortages or overstocking.
 - **Visual representation** of past and predicted sales trends.
